@@ -1,0 +1,16 @@
+train: ../data/coco128/images/train2017
+val: ../data/coco128/images/train2017
+
+nc: 80
+names:
+  - person
+  - bicycle
+  - car
+  - motorcycle
+  - airplane
+  - bus
+  - train
+  - truck
+  - boat
+  - traffic light
+  # (COCO classes truncated for brevity)
